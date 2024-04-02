@@ -2,12 +2,12 @@
   "name": "flutterpress",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "node": "21",
   "scripts": {
-    "start": "ts-node src/index.ts",
+    "start": "ts-node src/server.ts",
     "build": "tsc",
-    "serve": "node dist/index.js"
+    "serve": "node dist/server.js"
   },
   "author": "",
   "license": "ISC",
